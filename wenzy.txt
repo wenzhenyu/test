@@ -4,3 +4,4 @@ my name is shendeng.
 under the GPL
 abcdefg
 test
+你好啊，hello
